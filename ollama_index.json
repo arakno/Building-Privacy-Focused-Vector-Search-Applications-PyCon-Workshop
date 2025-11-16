@@ -37,7 +37,7 @@
               "dynamic": false,
               "fields": [
                 {
-                  "dims": 768,
+                  "dims": 3072,
                   "index": true,
                   "name": "embedding",
                   "similarity": "dot_product",
